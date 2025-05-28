@@ -1,6 +1,6 @@
 # SW-MCU-STM32-MQTT-037
 
-Here is the simple code for mqtt to send data to your server. I used stm32f103c8u6 and w5500 ethernet module with SHT4X sensor.
+Here is the simple code for mqtt to send data to your server. I used stm32f103c8t6 and w5500 ethernet module with SHT4X sensor.
 
 ## Board:
 
